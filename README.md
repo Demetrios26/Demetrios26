@@ -6,7 +6,7 @@
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) demetrios.tester@gmail.com 
 
-![https;//t.me/Demetrios_1](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) https://t.me/Demetrios_1
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) https://t.me/Demetrios_1
 
 ## Инструменты и софт
 
