@@ -24,4 +24,4 @@
 ## Дипломы и сертификаты
 
 [Диплом](https://drive.google.com/file/d/13UxWOtUO-m7Gt9DSfPd9oBDX_5N4riFT/view?usp=drive_link)
-[Сертификаты](https://drive.google.com/file/d/1vJm9UEphm5U-KmyS5NJa1NTi5Yk_ntg7/view?usp=drive_link)(https://drive.google.com/file/d/17V3mXlGOvNli1VhzhNg7VdhXT7IJCgN4/view?usp=drive_link)
+[Сертификаты](https://drive.google.com/file/d/1vJm9UEphm5U-KmyS5NJa1NTi5Yk_ntg7/view?usp=drive_link https://drive.google.com/file/d/17V3mXlGOvNli1VhzhNg7VdhXT7IJCgN4/view?usp=drive_link)
