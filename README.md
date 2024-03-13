@@ -20,3 +20,8 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+## Дипломы и сертификаты
+
+![Диплом](https://drive.google.com/file/d/13UxWOtUO-m7Gt9DSfPd9oBDX_5N4riFT/view?usp=drive_link)
+![Сертификаты](https://drive.google.com/file/d/1vJm9UEphm5U-KmyS5NJa1NTi5Yk_ntg7/view?usp=drive_link)(https://drive.google.com/file/d/17V3mXlGOvNli1VhzhNg7VdhXT7IJCgN4/view?usp=drive_link)
