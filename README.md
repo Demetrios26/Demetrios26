@@ -1,4 +1,4 @@
-# [](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJubnhqdGdjczFlampyc29vZmE4bnB4eGhrN29zM3h2aThhdGNwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/miLlYcldJyfSGmvgIe/giphy.gif)My name is Dmitrii
+# ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJubnhqdGdjczFlampyc29vZmE4bnB4eGhrN29zM3h2aThhdGNwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/miLlYcldJyfSGmvgIe/giphy.gif)My name is Dmitrii
 
 Привет! Меня зовут Дмитрий. Я начинающий инженер по ручному тестированию. Несмотря на то, что у меня мало опыта тестирования, я увлечен данным направлением и постараюсь сделать ваш продукт лучше, применяя свои умения и навыки в области тестирования мобильных и вэб-приложений. В данный момент постоянно изучаю и открываю для себя новое в области тестирования, а также занимаюсь на крауд-тестинговых сервисах. Буду признателен, если Вы уделите время на изучение моего резюме и в случае заинтересованности свяжетесь со мной.
 
