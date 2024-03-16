@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dmitrii
+# [](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJubnhqdGdjczFlampyc29vZmE4bnB4eGhrN29zM3h2aThhdGNwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/miLlYcldJyfSGmvgIe/giphy.gif)My name is Dmitrii
 
 Привет! Меня зовут Дмитрий. Я начинающий инженер по ручному тестированию. Несмотря на то, что у меня мало опыта тестирования, я увлечен данным направлением и постараюсь сделать ваш продукт лучше, применяя свои умения и навыки в области тестирования мобильных и вэб-приложений. В данный момент постоянно изучаю и открываю для себя новое в области тестирования, а также занимаюсь на крауд-тестинговых сервисах. Буду признателен, если Вы уделите время на изучение моего резюме и в случае заинтересованности свяжетесь со мной.
 
@@ -18,8 +18,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 ## Дипломы и сертификаты
 
