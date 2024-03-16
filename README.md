@@ -17,6 +17,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Qase](https://camo.githubusercontent.com/04072f438d4085871331c6a2036033a7f3baa924cf1a20a3e56f136098823fa2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f516173652d3865353866663f7374796c653d666f722d7468652d6261646765266c6f676f3d51617365)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Devtools](https://camo.githubusercontent.com/7834b916fab184617481b1f86c3ca36d797b2e6370690dbac295af6ba3858865/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446576546f6f6c732d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c656368726f6d65266c6f676f436f6c6f723d323637346632)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
