@@ -1,4 +1,4 @@
-# ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJubnhqdGdjczFlampyc29vZmE4bnB4eGhrN29zM3h2aThhdGNwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/miLlYcldJyfSGmvgIe/giphy.gif)My name is Dmitrii
+# ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTd1ZG5yb3l5aXJwd2l3N2RzcmhjZm10MjVxZjMxZ3Q3NWYyanV3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pj30mdklB3FaaoFoOv/giphy.gif)My name is Dmitrii!
 
 Привет! Меня зовут Дмитрий. Я начинающий инженер по ручному тестированию. Несмотря на то, что у меня мало опыта тестирования, я увлечен данным направлением и постараюсь сделать ваш продукт лучше, применяя свои умения и навыки в области тестирования мобильных и вэб-приложений. В данный момент постоянно изучаю и открываю для себя новое в области тестирования, а также занимаюсь на крауд-тестинговых сервисах. Буду признателен, если Вы уделите время на изучение моего резюме и в случае заинтересованности свяжетесь со мной.
 
@@ -23,5 +23,5 @@
 ## Дипломы и сертификаты
 
 [**Диплом**](https://drive.google.com/file/d/13UxWOtUO-m7Gt9DSfPd9oBDX_5N4riFT/view?usp=drive_link)
-[**Сертификат1**](https://drive.google.com/file/d/1vJm9UEphm5U-KmyS5NJa1NTi5Yk_ntg7/view?usp=drive_link)
-[**Сертификат2**](https://drive.google.com/file/d/17V3mXlGOvNli1VhzhNg7VdhXT7IJCgN4/view?usp=drive_link)
+[**Сертификат**](https://drive.google.com/file/d/1vJm9UEphm5U-KmyS5NJa1NTi5Yk_ntg7/view?usp=drive_link)
+[**Сертификат**](https://drive.google.com/file/d/17V3mXlGOvNli1VhzhNg7VdhXT7IJCgN4/view?usp=drive_link)
