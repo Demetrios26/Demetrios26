@@ -15,7 +15,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Qase](https://camo.githubusercontent.com/04072f438d4085871331c6a2036033a7f3baa924cf1a20a3e56f136098823fa2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f516173652d3865353866663f7374796c653d666f722d7468652d6261646765266c6f676f3d51617365)
+![Qase](https://camo.githubusercontent.com/803226c28640c0ae29691009681317740afc0d3fa8557de3c8e57d36a183c870/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f516173652d3865353866663f7374796c653d666f722d7468652d6261646765266c6f676f3d51617365)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Devtools](https://camo.githubusercontent.com/903b0422f198c56f757c641355f7f67bd54cf1e1648b3f06455ce42bbccc8369/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d646576746f6f6c732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d476f6f676c654368726f6d65266c6f676f436f6c6f723d323638344646)
