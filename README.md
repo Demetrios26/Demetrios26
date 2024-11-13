@@ -34,4 +34,4 @@
 [***CrowdTesting***](https://drive.google.com/file/d/17V3mXlGOvNli1VhzhNg7VdhXT7IJCgN4/view?usp=drive_link)
 
 ## Мое CV
-[***CV***](https://drive.google.com/file/d/1OkC5o0xAAp9LPasPw6ISzF6Y8yh40ldg/view)
+[***CV***](https://drive.google.com/file/d/192P0nhm3K3f8Kp_zhheCj-rhKl3Ou6BT/view?usp=sharing)
